@@ -17,8 +17,8 @@ We are selecting 6 stocks namely "JSWSTEEL", "SUNPHARMA", "HINDALCO", "CIPLA", "
 
 We will be answering the following questions along the way:
 
-What is the change of stocks price over time?
-What is the change in volume of stock over time?
-What was the moving average of different stocks?
-What is the distribution of each feature?
-What is the daily return of the stock on an average?
+1.What is the change of stocks price over time?
+2.What is the change in volume of stock over time?
+3.What was the moving average of different stocks?
+4.What is the distribution of each feature?
+5.What is the daily return of the stock on an average?
