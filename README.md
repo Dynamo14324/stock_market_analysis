@@ -1,4 +1,4 @@
-# stock_market_analysis
+# Stock Market Analysis
 Stock Market Analysis Using Python
 
 In this notebook we will be looking data from stock market. We are analysing the stocks using pandas, matplotlib and plotly. Visualising the movement of stock price, volume and daily return of each stocks.
