@@ -24,5 +24,5 @@ We will be answering the following questions along the way:
 5. What is the daily return of the stock on an average?
 
 # Running Streamlit app
-Download requirements from ``requirement.txt`` file
-Run this command on terminal after downloading the app.py file $ ``streamlit run app.py``
+- Download requirements from ``requirement.txt`` file
+- Run this command on terminal after downloading the app.py file $ ``streamlit run app.py``
