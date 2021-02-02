@@ -27,3 +27,4 @@ We will be answering the following questions along the way:
 - Download requirements from ``requirement.txt`` file
 - Run this command on terminal after downloading the app.py file $ ``streamlit run app.py``
 - The app is deployed on this url: https://tradingapp771.herokuapp.com/
+- For searching NSE and BSE stocks add ``.NS``, ``.BO`` after the tick in the search bar. eg: ``CIPLA.NS``, ``CIPLA.BO``
