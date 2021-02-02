@@ -22,3 +22,6 @@ We will be answering the following questions along the way:
 3. What was the moving average of different stocks?
 4. What is the distribution of each feature?
 5. What is the daily return of the stock on an average?
+
+# Running Streamlit app
+Run this command on terminal after downloading the app.py file $ ``streamlit run app.py``
